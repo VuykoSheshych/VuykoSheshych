@@ -1,5 +1,6 @@
-![monkey-keyboard](https://github.com/user-attachments/assets/6fc4f446-b85c-4fc3-b758-11a81d28fbbc)
-
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/6fc4f446-b85c-4fc3-b758-11a81d28fbbc">
+</div>
 
 
 
