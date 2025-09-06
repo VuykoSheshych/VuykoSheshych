@@ -1,4 +1,9 @@
-## Hi there 👋
+![monkey-keyboard](https://github.com/user-attachments/assets/6fc4f446-b85c-4fc3-b758-11a81d28fbbc)
+
+
+
+
+
 
 <!--
 **VuykoSheshych/VuykoSheshych** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
